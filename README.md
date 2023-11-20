@@ -1,4 +1,5 @@
-### Hi there 👋
+### val nombre = "Alvaro"
+### val pais = "España"
 
 <!--
 **Liveribox/Liveribox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
