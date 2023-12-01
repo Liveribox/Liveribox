@@ -1,6 +1,6 @@
 # Welcome to my humble dump :shipit:
 ### val name = "Alvaro" :stuck_out_tongue:
-### val pais = "Spain" :es:
+### val country = "Spain" :es:
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="AAAA"  width="auto" height="500"/>
 
