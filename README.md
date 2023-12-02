@@ -2,7 +2,9 @@
 ### val name = "Álvaro" :stuck_out_tongue:
 ### val country = "Spain" :es:
 
-<img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="AAAA"  width="auto" height="500"/>
+
+
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="Tux programing"  width="auto" height="500"/>
 
 ## Environments I use
 ![Docker](https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=Docker&logoColor=white&color=blue&link=https%3A%2F%2Fwww.docker.com%2F%23)
@@ -16,5 +18,8 @@
 ![Php](https://img.shields.io/badge/Php-%2329004D?style=for-the-badge&logo=php&link=https%3A%2F%2Fwww.php.net%2F)
 ![Java](https://img.shields.io/badge/Java-%23D37500?style=for-the-badge&link=https%3A%2F%2Fwww.java.com%2Fes%2F)
 ![C#](https://img.shields.io/badge/C%23-%2300C2D3?style=for-the-badge&logo=c%23&link=https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fdotnet%2Fcsharp%2F)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white&link=https%3A%2F%2Fwww.linux.org%2Ftags%2Fbash%2F)
+
+
 
 
