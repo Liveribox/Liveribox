@@ -1,4 +1,4 @@
-# Welcome to my humble dump :shipit:
+# Welcome to my humble dump :articulated_lorry:
 ### val name = "Álvaro" :stuck_out_tongue:
 ### val country = "Spain" :es:
 
@@ -19,6 +19,15 @@
 ![Java](https://img.shields.io/badge/Java-%23D37500?style=for-the-badge&link=https%3A%2F%2Fwww.java.com%2Fes%2F)
 ![C#](https://img.shields.io/badge/C%23-%2300C2D3?style=for-the-badge&logo=c%23&link=https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fdotnet%2Fcsharp%2F)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white&link=https%3A%2F%2Fwww.linux.org%2Ftags%2Fbash%2F)
+
+## Music I listen to while programming
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+  <img src="https://wordpress.wbur.org/wp-content/uploads/2023/09/lofigirl-1-1000x563.jpeg" alt="lofi girl" width="90" height="70"/>
+</a>
+<a href="https://music.youtube.com/watch?v=30WD-GTyuM0" target="_blank">
+  <img src="https://img.freepik.com/vector-gratis/ilustraciones-degradadas-baja-fidelidad_52683-82981.jpg" alt="lofi girl" width="90" height="70"/>
+</a>
+
 
 
 
