@@ -2,7 +2,7 @@
 ### val name = "Álvaro" :stuck_out_tongue:
 ### val country = "Spain" :es:
 
-
+<img src="https://gifdb.com/images/high/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" alt="Tux programing"  width="auto" height="500"/>
 
 
 
@@ -31,9 +31,7 @@
   <img src="https://img.freepik.com/vector-gratis/ilustraciones-degradadas-baja-fidelidad_52683-82981.jpg" alt="lofi girl" width="90" height="70"/>
 </a>
 
-# 
 
-<img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="Tux programing"  width="auto" height="500"/>
 
 
 
