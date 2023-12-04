@@ -11,6 +11,11 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com%2F)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&link=https%3A%2F%2Fvisualstudio.microsoft.com%2Fes%2F)
 ![Pycharm](https://img.shields.io/badge/Pycharm-%2302FF6B?style=for-the-badge&logo=pycharm&link=https%3A%2F%2Fwww.jetbrains.com%2Fes-es%2Fpycharm%2F)
+![AndoridStudio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.android.com%2Fstudio%3Fhl%3Des-419)
+
+
+
+
 
 ## Programming languages
 ![Python](https://img.shields.io/badge/Python-%23FFFF00?style=for-the-badge&logo=python&link=https%3A%2F%2Fwww.python.org%2F)
