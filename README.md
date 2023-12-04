@@ -4,7 +4,7 @@
 
 
 
-<img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="Tux programing"  width="auto" height="500"/>
+
 
 ## Environments I use
 ![Docker](https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=Docker&logoColor=white&color=blue&link=https%3A%2F%2Fwww.docker.com%2F%23)
@@ -19,6 +19,9 @@
 ![Java](https://img.shields.io/badge/Java-%23D37500?style=for-the-badge&link=https%3A%2F%2Fwww.java.com%2Fes%2F)
 ![C#](https://img.shields.io/badge/C%23-%2300C2D3?style=for-the-badge&logo=c%23&link=https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fdotnet%2Fcsharp%2F)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white&link=https%3A%2F%2Fwww.linux.org%2Ftags%2Fbash%2F)
+![Mysql](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&link=https%3A%2F%2Fwww.mysql.com%2F)
+![Html](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FHTML)
+![Css](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FCSS)
 
 ## Music I listen to while programming
 <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
@@ -27,6 +30,19 @@
 <a href="https://music.youtube.com/watch?v=30WD-GTyuM0" target="_blank">
   <img src="https://img.freepik.com/vector-gratis/ilustraciones-degradadas-baja-fidelidad_52683-82981.jpg" alt="lofi girl" width="90" height="70"/>
 </a>
+
+# 
+
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif" alt="Tux programing"  width="auto" height="500"/>
+
+
+
+
+
+
+
+
+
 
 
 
