@@ -14,10 +14,10 @@
 ## Programming languages
 ![Python](https://img.shields.io/badge/Python-%23FFFF00?style=for-the-badge&logo=python&link=https%3A%2F%2Fwww.python.org%2F)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23000000?style=for-the-badge&logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F)
-![Php](https://img.shields.io/badge/Php-%2329004D?style=for-the-badge&logo=php&link=https%3A%2F%2Fwww.php.net%2F)
 ![Java](https://img.shields.io/badge/Java-%23D37500?style=for-the-badge&link=https%3A%2F%2Fwww.java.com%2Fes%2F)
 ![C#](https://img.shields.io/badge/C%23-%2300C2D3?style=for-the-badge&logo=c%23&link=https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fdotnet%2Fcsharp%2F)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white&link=https%3A%2F%2Fwww.linux.org%2Ftags%2Fbash%2F)
+![Powershell](https://img.shields.io/badge/Powershell-%235391FE?style=for-the-badge&logo=powershell&logoColor=%23FFFFFF&link=https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fpowershell%2Fscripting%2Foverview%3Fview%3Dpowershell-7.4)
 ![Mysql](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&link=https%3A%2F%2Fwww.mysql.com%2F)
 ![Html](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FHTML)
 ![Css](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FCSS)
