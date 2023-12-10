@@ -27,6 +27,7 @@
 
 ## Virtual Box
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&link=https%3A%2F%2Fwww.virtualbox.org%2F)
+![VMware](https://img.shields.io/badge/VMware-%23607078?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.vmware.com%2Fproducts%2Fworkstation-player.html)
 
 ## Music I listen to while programming
 <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
