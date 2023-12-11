@@ -25,7 +25,7 @@
 ## Manage your IDEs the easy way (Windows,MacOs,Linux)
 ![ToolBox](https://img.shields.io/badge/JetBrains%20Toolbox%20App-%23A100FF?style=for-the-badge&link=https%3A%2F%2Fwww.jetbrains.com%2Ftoolbox-app%2F)
 
-## Virtual Box
+## Virtual Machines
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&link=https%3A%2F%2Fwww.virtualbox.org%2F)
 ![VMware](https://img.shields.io/badge/VMware-%23607078?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.vmware.com%2Fproducts%2Fworkstation-player.html)
 
