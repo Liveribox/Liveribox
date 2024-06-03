@@ -2,7 +2,9 @@
 ### val name = "Álvaro" 🤡
 ### val country = "Spain" :es:
 
-<img src="https://gifdb.com/images/high/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" alt="Tux programing"  width="auto" height="500"/>
+<!-- <img src="https://gifdb.com/images/high/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" alt="Tux programing"  width="auto" height="500"/> -->
+
+<img src="https://i.pinimg.com/originals/89/50/5d/89505d16d932d8cca00011c78a54a69d.gif" alt="Medic informatic"  width="auto" height="500"/>
 
 ## Environments I use
 ![Docker](https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=Docker&logoColor=white&color=blue&link=https%3A%2F%2Fwww.docker.com%2F%23)
