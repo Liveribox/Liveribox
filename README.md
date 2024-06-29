@@ -4,7 +4,7 @@
 
 <!-- <img src="https://gifdb.com/images/high/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" alt="Tux programing"  width="auto" height="500"/> -->
 
-<img src="https://img1.picmix.com/output/pic/normal/8/5/8/4/11524858_86f73.gif" alt="Medic informatic"  width="auto" height="500"/>
+<img src="https://64.media.tumblr.com/430b7c98d18db79d8cec881cee990ad0/942a534a2dbbd442-32/s540x810/c97b8970e0b478606c7af042227e69de0e6820bd.gif" alt="Medic informatic"  width="auto" height="500"/>
 
 ## Environments I use
 ![Docker](https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=Docker&logoColor=white&color=blue&link=https%3A%2F%2Fwww.docker.com%2F%23)
