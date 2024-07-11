@@ -10,6 +10,7 @@
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&link=https%3A%2F%2Fvisualstudio.microsoft.com%2Fes%2F)
 ![Pycharm](https://img.shields.io/badge/Pycharm-%2302FF6B?style=for-the-badge&logo=pycharm&link=https%3A%2F%2Fwww.jetbrains.com%2Fes-es%2Fpycharm%2F)
 ![AndoridStudio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.android.com%2Fstudio%3Fhl%3Des-419)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23ffffff)
 
 ## Programming languages
 ![Python](https://img.shields.io/badge/Python-%23FFFF00?style=for-the-badge&logo=python&link=https%3A%2F%2Fwww.python.org%2F)
@@ -21,6 +22,10 @@
 ![Mysql](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&link=https%3A%2F%2Fwww.mysql.com%2F)
 ![Html](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FHTML)
 ![Css](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fes%2Fdocs%2FWeb%2FCSS)
+
+## Frameworks
+![Doctrine](https://img.shields.io/badge/doctrine-%23FC6A31?style=for-the-badge&logo=doctrine&logoColor=%23ffffff)
+![Unity](https://img.shields.io/badge/unity-%23000000%20?style=for-the-badge&logo=unity&logoColor=%23ffffff)
 
 ## Manage your IDEs the easy way (Windows,MacOs,Linux)
 ![ToolBox](https://img.shields.io/badge/JetBrains%20Toolbox%20App-%23A100FF?style=for-the-badge&link=https%3A%2F%2Fwww.jetbrains.com%2Ftoolbox-app%2F)
