@@ -26,6 +26,9 @@
 ## Frameworks
 ![Doctrine](https://img.shields.io/badge/doctrine-%23FC6A31?style=for-the-badge&logo=doctrine&logoColor=%23ffffff)
 ![Unity](https://img.shields.io/badge/unity-%23000000%20?style=for-the-badge&logo=unity&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&logoSize=9&color=black)
+
+
 
 ## Manage your IDEs the easy way (Windows,MacOs,Linux)
 ![ToolBox](https://img.shields.io/badge/JetBrains%20Toolbox%20App-%23A100FF?style=for-the-badge&link=https%3A%2F%2Fwww.jetbrains.com%2Ftoolbox-app%2F)
